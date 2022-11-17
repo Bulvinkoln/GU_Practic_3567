@@ -1,0 +1,3 @@
+Создание новой ветки с именем - git bruunch new_branch_name
+
+Удаление ветки - -d branch_to_delete 
